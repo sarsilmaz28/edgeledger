@@ -1,0 +1,15 @@
+#navbar{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+#navbar ul{
+    padding-top: 1rem;
+}
+.what-container{
+    flex-direction: column;
+}
+.who-image{
+    display: none;
+}
